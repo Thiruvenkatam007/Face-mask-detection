@@ -1,5 +1,7 @@
 # Face-mask-detection
 <br>
+Dataset link :https://drive.google.com/drive/folders/1QIvxpHqoAcBNyAdJyMl8dEi8LNevidUp?usp=share_link
+
 ## Project goal 
 <br>
 The goal of the project is to train a svm model using the real life face dataset and then use viola and jones algorithm to detect face in real-time and the implement the trained model in real-time video.
